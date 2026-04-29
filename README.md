@@ -1,8 +1,8 @@
-Hola! 👋
+# Hola! 👋
 
 ---
 
-# Mateo Rodríguez
+# Soy Mateo Rodríguez
 
 Soy un desarrollador FullStack buscando trabajo. Foco en backend.
 Actualmente me estoy dedicando a crear proyectos personales para poder ampliar y demostrar mi conocimiento. Los tienen mas abajo por si los quieren revisar.
