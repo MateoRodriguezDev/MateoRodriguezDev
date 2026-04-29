@@ -1,28 +1,22 @@
-<h1 align="left">¡Hola! 👋 ¿Qué tal?</h1>
+# Mateo Rodríguez
 
-###
+Desarrollador FullStack buscando trabajo. Foco en backend.
+Actualmente me estoy dedicando a crear proyectos personales para poder ampliar y demostrar mi conocimiento. Los tienen mas abajo por si los quieren revisar
 
-<p align="left">Mi nombre es Mateo y actualmente soy estudiante de Desarrollo de Software Full Stack en Cipolletti. Vivo en General Roca, Río Negro.</p>
+---
 
-###
+## Stack
 
-<p align="left">📚 Actualmente, estoy aprendiendo a usar React con TypeScript y Nest...<br>🎯 Objetivo: Ser un programador backend<br></p>
+**Backend** — NestJS · Node.js · REST APIs · Prisma ORM · Firebase · Swagger  
+**Frontend** — Angular 19 · TypeScript · TailwindCSS · Firebase Auth  
+**DevOps** — Docker · Nginx · CI/CD · VPS (básico) · Bash scripting  
+**DB** — MySQL  
+**Otros** — Git · Figma · React Native (bugs/QA)
 
-###
+---
 
-<h2 align="left">Yo programo con</h2>
+## Educación
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-</div>
+- Desarrollo de Software FullStack — Instituto Técnico Superior de Cipolletti *(2023–2025)*
+  
+---
